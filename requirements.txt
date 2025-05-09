@@ -1,5 +1,5 @@
-pydantic_ai
 streamlit
-asyncio
 requests
+pydantic-ai
 python-dotenv
+airportsdata
